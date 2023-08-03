@@ -1,9 +1,9 @@
 {
   "name": "Synthswap List",
-  "timestamp": "2023-08-01T12:00:00.000Z",
+  "timestamp": "2023-08-02T12:00:00.000Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -27,6 +27,22 @@
       "name": "Synth Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/synthswapdev/synth-tokenlist/main/assets/0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "symbol": "USDbC",
+      "name": "USDC Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/synthswapdev/synth-tokenlist/main/assets/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "symbol": "DAI",
+      "name": "DAI Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/synthswapdev/synth-tokenlist/main/assets/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png"
     }
   ]
 }
